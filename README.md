@@ -15,7 +15,7 @@ A customizable Circle Progress Bar for Android applications. This library allows
 Add the following dependency to your `build.gradle` file:
 
 ```gradle
-implementation 'com.github.yourusername:CircleProgressBar:1.0.0'
+implementation 'com.github.rajtts009:CircleProgressBar:1.0.0'
 
 Usage
 Add the CircleProgressBar to your XML layout:
